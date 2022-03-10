@@ -1,5 +1,5 @@
 name: Compress Images
-on: [push, pull_request]
+on: push
   paths:
     - '**.jpg'
     - '**.jpeg'
